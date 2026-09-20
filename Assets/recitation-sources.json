@@ -1,0 +1,26 @@
+[
+  {
+    "name": "al-qamar",
+    "source": "https://i.ytimg.com/vi/PfjksIKHLgU/maxresdefault.jpg",
+    "referenceVideo": "https://www.youtube.com/watch?v=PfjksIKHLgU",
+    "path": "Assets/al-qamar.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "name": "muhammad",
+    "source": "https://i.ytimg.com/vi/dlIVF7V8U6o/maxresdefault.jpg",
+    "referenceVideo": "https://www.youtube.com/watch?v=dlIVF7V8U6o",
+    "path": "Assets/muhammad.jpg",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "name": "ar-rahman",
+    "source": "https://i.ytimg.com/vi/p-AQ5V61MbA/maxresdefault.jpg",
+    "referenceVideo": "https://www.youtube.com/watch?v=p-AQ5V61MbA",
+    "path": "Assets/ar-rahman.jpg",
+    "width": 1280,
+    "height": 720
+  }
+]
